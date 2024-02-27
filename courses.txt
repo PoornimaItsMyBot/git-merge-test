@@ -2,3 +2,7 @@ ItsMyBot cOurses
 cruiser
 flyer 
 master
+
+software courses to be added
+
+level 1 courses
